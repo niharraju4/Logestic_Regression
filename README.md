@@ -16,7 +16,7 @@ This repository contains a comprehensive implementation of logistic regression f
 8. [Dependencies](#dependencies)
 9. [Usage](#usage)
 10. [Contributing](#contributing)
-11. [License](#license)
+
 
 ## Introduction
 
@@ -244,10 +244,4 @@ python your_script.py
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This documentation provides a comprehensive overview of the code and its functionality. You can customize it further based on your specific requirements.
