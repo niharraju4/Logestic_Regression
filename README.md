@@ -1,6 +1,4 @@
-Certainly! Below is a more detailed documentation for your code, which you can use for your GitHub repository.
 
----
 
 # Logistic Regression Implementation and Hyperparameter Tuning
 
